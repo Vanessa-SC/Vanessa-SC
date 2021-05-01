@@ -9,7 +9,7 @@
 - AngularJS
 - Ionic Framework
 - Bootstrap
--PHP
+- PHP
 - MySQL
 
 
