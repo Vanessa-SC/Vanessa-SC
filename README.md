@@ -4,13 +4,13 @@
 #### Me gusta aprender continuamente. 
 
 *Aunque mis conocimientos aún son básicos conozco sobre los siguientes lenguajes y frameworks:*
-  :guitar: HTML, CSS
-  :guitar: Angular
-  :guitar: AngularJS
-  :guitar: Ionic Framework
-  :guitar: Bootstrap
-  :guitar: PHP
-  :guitar: MySQL
+ - HTML, CSS
+- Angular
+- AngularJS
+- Ionic Framework
+- Bootstrap
+-PHP
+- MySQL
 
 
 
