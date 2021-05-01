@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hola! 👋
+### Soy Vanessa :blush: , recién egresada de la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones.
+
+#### Me gusta aprender continuamente. 
+
+*Aunque mis conocimientos aún son básicos conozco sobre los siguientes lenguajes y frameworks:*
+- :guitar: HTML, CSS
+- :guitar: Angular
+- :guitar: AngularJS
+- :guitar: Ionic Framework
+- :guitar: Bootstrap
+- :guitar: PHP
+- :guitar: MySQL
+
+
 
 <!--
 **Vanessa-SC/Vanessa-SC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
