@@ -1,16 +1,17 @@
 ## Hola! 👋
-### Soy Vanessa :blush: , recién egresada de la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones.
+### Soy Vanessa :blush: , egresada del Instituto Tecnológico de Durango de la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones.
 
 #### Me gusta aprender continuamente. 
 
 *Aunque mis conocimientos aún son básicos conozco sobre los siguientes lenguajes y frameworks:*
- - HTML, CSS
+- HTML, CSS
 - Angular
 - AngularJS
 - Ionic Framework
 - Bootstrap
 - PHP
 - MySQL
+- Laravel
 
 
 
