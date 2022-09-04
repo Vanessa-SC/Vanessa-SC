@@ -3,7 +3,7 @@
 
 #### Me gusta aprender continuamente. 
 
-*Aunque mis conocimientos aún son básicos conozco sobre los siguientes lenguajes y frameworks:*
+*Aunque mis conocimientos aún no son tan grandes, conozco sobre los siguientes lenguajes y frameworks:*
 - HTML, CSS
 - Angular
 - AngularJS
@@ -12,6 +12,8 @@
 - PHP
 - MySQL
 - Laravel
+- Java
+- Javascript
 
 
 
