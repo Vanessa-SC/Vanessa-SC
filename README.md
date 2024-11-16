@@ -3,18 +3,16 @@
 
 #### Me gusta aprender continuamente. 
 
-*Aunque mis conocimientos aún no son tan grandes, conozco sobre los siguientes lenguajes y frameworks:*
+*Lenguajes y frameworks con los que he trabajado:*
 - HTML, CSS
-- Angular
+- Angular 9
 - AngularJS
-- Ionic Framework
 - Bootstrap
 - PHP
 - MySQL
-- Laravel
-- Java
+- Laravel 5+
 - Javascript
-
+- Vue
 
 
 <!--
